@@ -19,6 +19,8 @@ set<string> values = BuildMapValuesSet({
 });
 
 for (const string& value : values) {
+  
   cout << value << endl;
+  
 }
 
